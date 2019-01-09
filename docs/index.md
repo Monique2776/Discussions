@@ -34,32 +34,19 @@ Speakers will present a problem they have worked on and show how they have solve
 
 # Logistics
 
-Building access: Bring your work ID so you can be signed in as a visitor.
+Parking: Check [this link](https://en.parkopedia.ca/parking/locations/90_elgin_street_ottawa_ontario_k1p_5e7_canada_f244msbc8ps/?country=ca&arriving=201902180900&leaving=201902181600) for availability of pay parking near 90 Elgin Street.  
+Building access: Bring an ID for you to be signed in.
+Lunch will not be provided, but there are many options close by.
+Coffee will be provided during the breaks 
 
-## Lunch
+# Streaming and slides
+Session is not recorded or streamed. Slides will not be distributed. 
 
-there a few places within walking distance of the auditorium
 
 ## Annoucements 
 
 To advertise your initiative, conference, etc. during the breaks, please add a slide
 [here](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1)
-
-## Streaming and slides
-
-Session is not recorded or steamed. Slides will not be distributed.
-
-## Advertisements
-
-To advertise your initiative, conference, etc during the breaks, please add a slide here
-
-## Gender diversity data
-
-This conference featured 6 women and 4 men speaker / panelists.
-
-## Data and Privacy
-
-The audience will be a mix of public servants and NGO; follow the appropriate privacy & disclosure rules when preparing your presentation.
 
 
 [Francais](./about.md)
