@@ -1,9 +1,11 @@
 ---
 layout: default
-permalink: /about/
+permalink: /fr/
 title: About 
 ---
 
-Test
+
+
+
 
 [back](./)
