@@ -31,11 +31,10 @@ Building access: Bring your work ID so you can be signed in as a visitor.
 
 there a few places within walking distance of the auditorium
 
-## To give a presentation...
-Abstract submission has closed, thank you to all who submitted an abstract!
+## Annoucements 
 
-Tech talks will be 25 min in length, with 5 min for Q&A.
-[Annoucements](https://docs.google.com/presentation/d/1QMZKEhuEJAjMFJhwWQT9OgtK6SnEeK0HD-RIbl_D5sU/edit?usp=drive_open&ouid=107377793848246576116)
+To advertise your initiative, conference, etc. during the breaks, please add a slide
+[here](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1)
 
 ## Streaming and slides
 
