@@ -7,23 +7,23 @@ Cost = $0, but registration is required. The registration deadline has passed.
 
 
 # Schedule
-8:45 am arrival and sign in
-9:00 - 9:15 Opening remarks,
-9:15 - 9:45 Tech talk: 
-9:45 - 10:15 Tech talk:
-10:15 - 10:30 Break (Main Library)
-10:30 - 11:30 Panel discussion: 
-11:30 - 12:00 Tech talk: 
-12:00 - 1:15 Lunch
-1:30 - 2:00 Tech talk: 
-2:00 - 2:30 Panel discussion: 
-2:30 - 2:45 Break (Main Library)
-2:45 - 3:15 Tech talk:
-3:15 - 3:45 Tech talk: 
-3:45 - 4:00 Closing discussion, 
+- 8:45 am arrival and sign in
+- 9:00 - 9:15 Opening remarks,
+- 9:15 - 9:45 Tech talk: 
+- 9:45 - 10:15 Tech talk:
+- 10:15 - 10:30 Break (Main Library)
+- 10:30 - 11:30 Panel discussion: 
+- 11:30 - 12:00 Tech talk: 
+- 12:00 - 1:15 Lunch
+- 1:30 - 2:00 Tech talk: 
+- 2:00 - 2:30 Panel discussion: 
+- 2:30 - 2:45 Break (Main Library)
+- 2:45 - 3:15 Tech talk:
+- 3:15 - 3:45 Tech talk: 
+- 3:45 - 4:00 Closing discussion, 
 # Logistics
 
-Building access: Bring your work ID so you can be signed in as a visitor at the East Entrance. The front door will be out of service - access will be through the East Entrance, next to Visitor Parking
+Building access: Bring your work ID so you can be signed in as a visitor.
 
 ## Lunch
 
