@@ -3,8 +3,6 @@
 
 [English](./en.md)
 
-**Le français suit**
-
 # Strategic Analytics Discussions / Discussions sur l’analyse stratégique
 
 **Monday, February 18 2019 / Lundi le 18 février 2019**

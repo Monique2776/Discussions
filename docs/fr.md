@@ -10,7 +10,7 @@ title: Discussions sur l’analytique stratégiques
 
 Secrétariat du Conseil du Trésor, Salle 2005, 90 rue Elgin, Ottawa 
 
- La participation à cette activité est gratuite. Toutefois, [vous devez vous inscrire](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). La date limite pour participer est le 13 février 2019.
+La participation à cette activité est gratuite. Toutefois, [vous devez vous inscrire](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). La date limite pour participer est le 13 février 2019.
 
 
 # But de la rencontre
@@ -59,9 +59,6 @@ Pour annoncer votre initiative,une conférence ou autre pendant les pauses, veui
 Veuillez respecter les règles pertinentes en matière de protection des renseignements personnels et de communication lorsque vous préparez votre exposé.
 
  
-
-
-
 
 
 [Anglais](/en.md)
