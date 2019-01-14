@@ -40,12 +40,13 @@ Les présentateurs transmettront leur expérience dans la résolution d’un pro
 
 Le repas du midi ne sera pas fourni, mais il y a plusieurs options à proximité.
 
-# Streaming and slides
+# En Streaming et diaporama
 
-Session is not recorded or streamed. Slides will not be distributed. 
+La session n'est ni enregistrée ni diffusée. Les diapositives ne seront pas distribuées.
 
 # Advertisements
-To advertise your initiative, conference, etc. during the breaks, please add a slide [here](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1)
+
+Pour annoncer votre initiative, conférence, etc. pendant les pauses, veuillez ajouter une diapositive [ici](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1)
  
 
 
