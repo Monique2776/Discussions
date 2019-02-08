@@ -4,7 +4,7 @@ permalink: /en/
 title: Data Analytics in the GC
 ---
 
-# Strategic Analytics Discussions 
+# Data Analytics in GC
 **Monday, February 18 2019** 
 
 Treasury Board Secretariat, Room 2005, 90 Elgin Street, Ottawa 
