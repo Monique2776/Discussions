@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /en/ 
-title: Strategic Analytics Discussions
+title: Data Analytics in the GC
 ---
 
 # Strategic Analytics Discussions 
@@ -26,7 +26,7 @@ Speakers will present a problem they have worked on and show how they have solve
 *   10:15 - 10:30 Break  
 *   10:30 - 11:00 CFIA -  J.-J Ryu, CFIA, Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material
 *	11:00 – 11:30 P. Boily, Carleton University 
-*	11:30 - 12:00 Bank of Canada - B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo, Decomposition of Portfolio Optimization Problems for Quantum Annealing.
+*	11:30 - 12:00 
 *	12:00 - 1:00 Lunch 
 *	1:00 – 1:30 Canada Post - A. Sammy, Canada Post, Using Data Analytics for Fraud Detection and Bid Rigging/Collusion Detection.
 Postes Canada 
